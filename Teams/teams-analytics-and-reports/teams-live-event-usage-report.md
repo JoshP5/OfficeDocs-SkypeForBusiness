@@ -60,3 +60,4 @@ If your organization is enabled for [Hive](https://www.hivestreaming.com/partner
 
 - [Teams analytics and reporting](teams-reporting-reference.md)
 - [What are Teams live events?](../teams-live-events/what-are-teams-live-events.md)
+- [Microsoft Documentation](https://docs.microsoft.com)
